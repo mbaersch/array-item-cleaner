@@ -1,4 +1,4 @@
-# Array Item Cleaner 
+# Array Item Cleaner (ssGTM)
 
 **Custom Variable Template for Server-Side Google Tag Manager**
 
